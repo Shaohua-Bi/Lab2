@@ -7,7 +7,7 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node app.js"
   },
-  "author": "Yuankai Ma 10479338",
+  "author": "Shaohua Bi",
   "license": "ISC",
   "dependencies": {
     "axios": "^0.27.2",
